@@ -15,7 +15,7 @@
 
         <style>
         #tee{
-            background-image: linear-gradient(to left, blue, green);
+            /* background-image: linear-gradient(to left, blue, green); */
         }
         </style>
     </head>
