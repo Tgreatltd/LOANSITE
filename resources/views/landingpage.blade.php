@@ -8,7 +8,7 @@
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 </head>
 <body>
-    <div class="container mx-auto">
+    <div class="container mx-auto p-5">
         <nav x-data="{ open: false }" class="bg-white dark:bg-gray-800 border-b border-gray-100 dark:border-gray-700">
             <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                <div class="flex justify-between h-16">
@@ -101,7 +101,9 @@
   <img src="storage/app/public/images/2022_10_02_20_48_IMG_1949.JPG" alt="">
   </div>
   
-
+  <div class="container mx-auto h-24 mt-5 bg-violet-200 flex justify-center items-center">
+      <h1 class="text-green-800 text-4xl">WHY CHOOSE US</h1>
+  </div>
 </div>
 </body>
 </html>
