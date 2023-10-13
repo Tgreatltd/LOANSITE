@@ -36,7 +36,7 @@
                            {{ __('About Us') }}
                        </x-nav-link> 
                        <div></div>
-                       <div class="flex justify-between h-10 mt-2 w-24 ml-20 form-input p-2 border rounded">
+                       <div class="flex justify-between h-10 mt-3 w-24 ml-20 form-input p-2 border rounded">
                            <x-nav-link>
                                {{ __('Contact Us') }}
                            </x-nav-link>
@@ -99,7 +99,6 @@
     <div>financial needs </div>
   </div>
 
-  
   </div>
 
 </div>
