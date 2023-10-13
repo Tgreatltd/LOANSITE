@@ -35,7 +35,7 @@
                        <x-nav-link>
                            {{ __('About Us') }}
                        </x-nav-link> 
-                       <div style="width: 200px"></div>
+                       <div></div>
                        <div class="flex justify-between h-10 mt-2 w-24 ml-20 form-input p-2 border rounded">
                            <x-nav-link>
                                {{ __('Contact Us') }}
