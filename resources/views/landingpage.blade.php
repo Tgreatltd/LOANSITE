@@ -17,6 +17,13 @@
                 <li><a href="/login" class="text-white hover:text-gray-300">Login/Sign Up</a></li>
             </ul>
         </div>
+        <div>
+          <x-dropdown>
+            <x-slot name='trigger'>
+
+            </x-slot>
+          </x-dropdown>
+        </div>
     </nav>
 </body>
 </html>
