@@ -102,7 +102,7 @@
   </div>
   
   <div class="container mx-auto h-24 mt-5 bg-violet-200 flex justify-center items-center">
-      <h1 class="text-green-800 text-4xl">WHY CHOOSE US</h1>
+      <h1 class="text-green-800 text-4xl ">WHY CHOOSE US</h1>
   </div>
 </div>
 </body>
