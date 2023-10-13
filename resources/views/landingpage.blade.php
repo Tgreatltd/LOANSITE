@@ -18,7 +18,7 @@
                 </a> --}}
                 <a href="">TEEGREAT'S LOAN</a>
             </div>
-            <div class="hidden space-x-8 sm:-my-px sm:ml-20 sm:flex">
+            <div class="hidden space-x-12 sm:-my-px sm:ml-20 sm:flex">
                 <x-nav-link>
                     {{ __('Home') }}
                 </x-nav-link>
@@ -34,11 +34,12 @@
                 <x-nav-link>
                     {{ __('About Us') }}
                 </x-nav-link> 
-            </div>
-            <div class="flex justify-between h-16 ml-20">
-                <x-nav-link>
-                    {{ __('Contact Us') }}
-                </x-nav-link>
+                <div style="width: 200px"></div>
+                <div class="flex justify-between h-16 ml-20">
+                    <x-nav-link>
+                        {{ __('Contact Us') }}
+                    </x-nav-link>
+                </div>
             </div>
            </div>
 
