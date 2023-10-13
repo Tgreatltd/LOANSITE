@@ -98,7 +98,6 @@
     <div>loans for your </div>
     <div>financial needs </div>
   </div>
-
   </div>
 
 </div>
