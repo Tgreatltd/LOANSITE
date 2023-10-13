@@ -98,7 +98,9 @@
     <div>loans for your </div>
     <div>financial needs </div>
   </div>
+  <img src="storage/app/public/images/2022_10_02_20_48_IMG_1949.JPG" alt="">
   </div>
+  
 
 </div>
 </body>
