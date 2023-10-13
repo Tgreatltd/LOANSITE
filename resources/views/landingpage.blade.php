@@ -16,6 +16,10 @@
                 <x-nav-link>
                     <h3 class=" m-20">OLUWATOBI</h3> 
                 </x-nav-link>
+
+                <x-nav-link>
+                    <h3 class=" m-20">PROFILE</h3> 
+                </x-nav-link>
             </div>
            </div>
 
