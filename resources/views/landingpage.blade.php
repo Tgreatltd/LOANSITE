@@ -93,7 +93,7 @@
  </nav>
 
   <div class="container mx-auto mt-8">
-  <div class="text-3xl text-green-800 ml-20" >
+  <div class="text-3xl text-green-800 " >
     <div>Quick and Easy</div>
     <div>loans for your </div>
     <div>financial needs </div>
